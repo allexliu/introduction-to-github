@@ -1,5 +1,7 @@
 # Introduction to GitHub
 
+[中文版本](README_CN.md)
+
 <!-- ![](../../actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](../../actions/workflows/1-create-a-branch.yml/badge.svg)
 ![](../../actions/workflows/2-commit-a-file.yml/badge.svg)
@@ -8,7 +10,7 @@
 
 _Get started using GitHub in less than an hour._
 
-## Welcome
+## Welcome come
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
 
